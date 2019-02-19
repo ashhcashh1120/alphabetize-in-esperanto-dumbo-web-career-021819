@@ -15,7 +15,7 @@ end
    az_hash[letter] = i+1
   end
   az_hash
-end 
+end
 
  def set_word_hash_values(a_to_z_hash, wordhash)
   #sets values of word hash to array of numbers
